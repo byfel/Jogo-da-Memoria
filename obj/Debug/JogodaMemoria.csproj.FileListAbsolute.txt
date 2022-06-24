@@ -1,0 +1,11 @@
+D:\Source\Project\JogodaMemoria\bin\Debug\JogodaMemoria.exe.config
+D:\Source\Project\JogodaMemoria\bin\Debug\JogodaMemoria.exe
+D:\Source\Project\JogodaMemoria\bin\Debug\JogodaMemoria.pdb
+D:\Source\Project\JogodaMemoria\obj\Debug\JogodaMemoria.csproj.AssemblyReference.cache
+D:\Source\Project\JogodaMemoria\obj\Debug\JogodaMemoria.csproj.SuggestedBindingRedirects.cache
+D:\Source\Project\JogodaMemoria\obj\Debug\JogodaMemoria.Game.resources
+D:\Source\Project\JogodaMemoria\obj\Debug\JogodaMemoria.Properties.Resources.resources
+D:\Source\Project\JogodaMemoria\obj\Debug\JogodaMemoria.csproj.GenerateResource.cache
+D:\Source\Project\JogodaMemoria\obj\Debug\JogodaMemoria.csproj.CoreCompileInputs.cache
+D:\Source\Project\JogodaMemoria\obj\Debug\JogodaMemoria.exe
+D:\Source\Project\JogodaMemoria\obj\Debug\JogodaMemoria.pdb
